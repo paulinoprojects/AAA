@@ -27,6 +27,8 @@ AAA is typically implemented using a AAA server. The AAA server is responsible f
 
 AAA is a critical security mechanism for protecting network resources. By implementing AAA, organizations can help to ensure that only authorized users can access network resources.
 
+![0_x-ZsHs5OD5BXXWnq](https://github.com/paulinoprojects/AAA/assets/111991325/cb1c6c36-0d3c-461e-b3b5-a09e4124b6eb)
+
 ## Here are some of the benefits of using AAA:
 - Increased security: AAA helps to protect network resources from unauthorized access.
 - Granular control: AAA allows for granular control over user access, which can help to prevent unauthorized access to sensitive resources.

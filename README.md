@@ -1,7 +1,8 @@
 # How to Naviage the Repo
 
-- If you are new to AAA servers read the overview below prior to proceeding the other repos.
-- Essentailly there are two main AAA technologies that will be discussed in this repo: TACACS+ & RADIUS
+- If you are new/unfamilar with AAA servers, read the overview below prior to viewing the other repos.
+- Essentailly there are two main AAA technologies that will be discussed in this repo: 1. TACACS+ & 2. RADIUS
+
 
 # Authentication, Authorization, and Accounting (AAA) Overview
 

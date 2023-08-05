@@ -2,9 +2,11 @@
 
 AAA provides three main functions:
 
-Authentication: Authentication is the process of verifying a user's identity. This is typically done by requiring the user to provide a username and password.
-Authorization: Authorization is the process of determining what resources a user is allowed to access. This is typically done by assigning users roles or permissions.
-Accounting: Accounting is the process of tracking user activity. This information can be used to generate reports, troubleshoot problems, and bill users for network usage.
+- Authentication: Authentication is the process of verifying a user's identity. This is typically done by requiring the user to provide a username and password.
+- Authorization: Authorization is the process of determining what resources a user is allowed to access. This is typically done by assigning users roles or permissions.
+- Accounting: Accounting is the process of tracking user activity. This information can be used to generate reports, troubleshoot problems, and bill users for network usage.
+
+
 AAA is typically implemented using a AAA server. The AAA server is responsible for storing user credentials, managing user roles and permissions, and tracking user activity. The AAA server communicates with network devices, such as routers and switches, to authenticate users and authorize access to resources.
 
 The following is a simplified overview of the AAA process:

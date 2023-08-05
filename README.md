@@ -1,3 +1,8 @@
+# How to Naviage the Repo
+
+- If you are new to AAA servers read the overview below prior to proceeding the other repos.
+- Essentailly there are two main AAA technologies that will be discussed in this repo: TACACS+ & RADIUS
+
 # Authentication, Authorization, and Accounting (AAA) Overview
 
 AAA provides three main functions:

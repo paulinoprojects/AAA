@@ -1,6 +1,6 @@
 # About This Repo
 
-- If you are new/unfamilar with AAA servers, read the overview below prior to viewing the other repos.
+- If you are new/unfamilar with AAA servers, read the overview below prior to viewing the other files.
 - Essentailly there are two main AAA technologies that will be discussed in this repo:
 1. TACACS+
 2. RADIUS
